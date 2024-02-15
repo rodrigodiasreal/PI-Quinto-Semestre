@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "12f155787f0f3f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c1dba0aeceecc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "345d897ce336f2df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fbebea14b0d08e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f95dd732ff501fd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8bfbdb3f8026d08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cd1283b07fcefa0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23d9f74215932166",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfb7e27f9c078a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "195aa292241a6abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b44d897af2e1b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Primeira Aula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "992b871ebbbe70c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Primeira Aula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1010be3a5ec175ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44cdba3a71a2e683",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Primeira Aula.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a8bfbdb3f8026d08",
+  "lastOpenFiles": [
+    "Primeira Aula.md"
+  ]
+}
